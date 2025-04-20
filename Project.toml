@@ -10,5 +10,5 @@ gmsh_jll = "630162c2-fc9b-58b3-9910-8442a8a132e6"
 
 [compat]
 StaticArrays = "1"
-Tesserae = "0.2.15"
+Tesserae = "0.2.16"
 gmsh_jll = "4.13"

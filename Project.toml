@@ -1,0 +1,14 @@
+name = "TesseraeGmsh"
+uuid = "96e687be-8443-480e-bfb6-9a1bb5ee0d0e"
+authors = ["Keita Nakamura <keita.nakamura.1109@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Tesserae = "fd374396-9d9c-4d88-9aa5-37a7f6105aca"
+gmsh_jll = "630162c2-fc9b-58b3-9910-8442a8a132e6"
+
+[compat]
+StaticArrays = "1"
+Tesserae = "0.2.15"
+gmsh_jll = "4.13"
